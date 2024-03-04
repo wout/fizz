@@ -1,0 +1,9 @@
+name: fizz
+version: 0.1.0
+
+authors:
+  - Wout <hi@wout.codes>
+
+crystal: '>= 1.11.2'
+
+license: MIT
